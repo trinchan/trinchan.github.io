@@ -1,0 +1,14 @@
+Gemfile.lock
+*.gem
+_site/
+.bundle/
+.DS_Store
+gh-pages/
+site/_site/
+coverage
+.ruby-version
+.ruby-gemset
+.sass-cache
+.sass-cache/
+tmp/*
+.jekyll-metadata
